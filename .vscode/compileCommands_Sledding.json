@@ -1,0 +1,37 @@
+[
+	{
+		"file": "C:\\Users\\jorda\\Documents\\Unreal Projects\\Sledding\\Source\\Sledding\\SledCharacter.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorda\\Documents\\Unreal Projects\\Sledding\\.vscode\\compileCommands_Sledding\\Sledding.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorda\\Documents\\Unreal Projects\\Sledding\\Source\\Sledding\\SledCharacter.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorda\\Documents\\Unreal Projects\\Sledding\\.vscode\\compileCommands_Sledding\\Sledding.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorda\\Documents\\Unreal Projects\\Sledding\\Source\\Sledding\\Sledding.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorda\\Documents\\Unreal Projects\\Sledding\\.vscode\\compileCommands_Sledding\\Sledding.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorda\\Documents\\Unreal Projects\\Sledding\\Source\\Sledding\\Sledding.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorda\\Documents\\Unreal Projects\\Sledding\\.vscode\\compileCommands_Sledding\\Sledding.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorda\\Documents\\Unreal Projects\\Sledding\\Source\\Sledding\\Sledding.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorda\\Documents\\Unreal Projects\\Sledding\\.vscode\\compileCommands_Sledding\\Sledding.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorda\\Documents\\Unreal Projects\\Sledding\\Source\\Sledding\\SleddingGameModeBase.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorda\\Documents\\Unreal Projects\\Sledding\\.vscode\\compileCommands_Sledding\\Sledding.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jorda\\Documents\\Unreal Projects\\Sledding\\Source\\Sledding\\SleddingGameModeBase.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\jorda\\Documents\\Unreal Projects\\Sledding\\.vscode\\compileCommands_Sledding\\Sledding.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]
